@@ -11,3 +11,7 @@ All exercises sources in the "Introducing Python, ISBN : 9781449359362 ⓒ 2015 
 ● 15-02-2019
 
     1. Chapter 3 exercises
+
+● 16-02-2019
+
+    1. Chapter 4 exercises
